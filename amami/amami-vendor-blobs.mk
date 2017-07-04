@@ -79,3 +79,7 @@ PRODUCT_COPY_FILES += \
 	vendor/sony/amami/proprietary/etc/firmware/tzhdcp.flist:system/etc/firmware/tzhdcp.flist \
 	vendor/sony/amami/proprietary/etc/firmware/tzhdcp.mdt:system/etc/firmware/tzhdcp.mdt \
 	vendor/sony/amami/proprietary/usr/idc/clearpad.idc:system/usr/idc/clearpad.idc
+
+# Bootlogo
+PRODUCT_COPY_FILES += \
+	vendor/sony/amami/proprietary/root/logo.rle:root/logo.rle
