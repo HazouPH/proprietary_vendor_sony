@@ -72,6 +72,10 @@ PRODUCT_COPY_FILES += \
 	vendor/sony/honami/proprietary/etc/firmware/modem.b25:system/etc/firmware/modem.b25 \
 	vendor/sony/honami/proprietary/etc/firmware/modem.b26:system/etc/firmware/modem.b26 \
 	vendor/sony/honami/proprietary/etc/firmware/modem.mdt:system/etc/firmware/modem.mdt \
+	vendor/sony/honami/proprietary/etc/firmware/touch_module_id_0x45.img:system/etc/firmware/touch_module_id_0x45.img \
+	vendor/sony/honami/proprietary/etc/firmware/touch_module_id_0x48.img:system/etc/firmware/touch_module_id_0x48.img \
+	vendor/sony/honami/proprietary/etc/firmware/touch_module_id_0x4d.img:system/etc/firmware/touch_module_id_0x4d.img \
+	vendor/sony/honami/proprietary/etc/firmware/touch_module_id_0x4e.img:system/etc/firmware/touch_module_id_0x4e.img \
 	vendor/sony/honami/proprietary/etc/firmware/tzhdcp.b00:system/etc/firmware/tzhdcp.b00 \
 	vendor/sony/honami/proprietary/etc/firmware/tzhdcp.b01:system/etc/firmware/tzhdcp.b01 \
 	vendor/sony/honami/proprietary/etc/firmware/tzhdcp.b02:system/etc/firmware/tzhdcp.b02 \

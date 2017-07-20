@@ -66,11 +66,7 @@ PRODUCT_COPY_FILES += \
 	vendor/sony/rhine-common/proprietary/etc/firmware/Signedrompatch_v21.bin:system/etc/firmware/Signedrompatch_v21.bin \
 	vendor/sony/rhine-common/proprietary/etc/firmware/Signedrompatch_v24.bin:system/etc/firmware/Signedrompatch_v24.bin \
 	vendor/sony/rhine-common/proprietary/etc/firmware/Signedrompatch_v30.bin:system/etc/firmware/Signedrompatch_v30.bin \
-	vendor/sony/rhine-common/proprietary/etc/firmware/touch_module_id_0x45.img:system/etc/firmware/touch_module_id_0x45.img \
-	vendor/sony/rhine-common/proprietary/etc/firmware/touch_module_id_0x48.img:system/etc/firmware/touch_module_id_0x48.img \
 	vendor/sony/rhine-common/proprietary/etc/firmware/touch_module_id_0x49.img:system/etc/firmware/touch_module_id_0x49.img \
-	vendor/sony/rhine-common/proprietary/etc/firmware/touch_module_id_0x4d.img:system/etc/firmware/touch_module_id_0x4d.img \
-	vendor/sony/rhine-common/proprietary/etc/firmware/touch_module_id_0x4e.img:system/etc/firmware/touch_module_id_0x4e.img \
 	vendor/sony/rhine-common/proprietary/etc/firmware/touch_module_id_0x4f.img:system/etc/firmware/touch_module_id_0x4f.img \
 	vendor/sony/rhine-common/proprietary/etc/firmware/touch_module_id_0x50.img:system/etc/firmware/touch_module_id_0x50.img \
 	vendor/sony/rhine-common/proprietary/etc/firmware/touch_module_id_0x51.img:system/etc/firmware/touch_module_id_0x51.img \
