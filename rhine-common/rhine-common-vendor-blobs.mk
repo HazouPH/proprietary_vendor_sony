@@ -524,8 +524,6 @@ PRODUCT_PACKAGES += \
     TimeService \
     libtime_genoff \
     libta \
-    tad_static \
-    wait4tad_static \
     libqmiservices \
     libdsi_netctrl \
     libqmi_common_so \
